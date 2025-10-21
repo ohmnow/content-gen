@@ -1,0 +1,38 @@
+{
+  "agents": {
+    "StockPriceChecker": {
+      "session_id": "7cf4d020-376d-4ca2-8db7-4936f4fe4095",
+      "tool": "claude_code",
+      "type": "agentic_coding",
+      "created_at": "2025-10-21T07:27:32.689896+00:00",
+      "working_dir": "/Users/chris/big-3-super-agent/apps/content-gen",
+      "operator_files": [
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/StockPriceChecker/find-coreweave-stock-price-near-term-estimates.md"
+      ]
+    },
+    "TechSpecExpert": {
+      "session_id": "66cb9e3e-83ab-4341-9a85-33b32a851a53",
+      "tool": "claude_code",
+      "type": "agentic_coding",
+      "created_at": "2025-10-21T07:40:21.330449+00:00",
+      "working_dir": "/Users/chris/big-3-super-agent/apps/content-gen",
+      "operator_files": [
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/TechSpecExpert/spec-vite-terminal-assistant-ui.md",
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/TechSpecExpert/specify-vite-app-filesystem-location-guidance.md",
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/TechSpecExpert/generate-ui-visual-feedback-observability-ideas.md"
+      ]
+    },
+    "GitHubManager": {
+      "session_id": "32a2d5bf-cda7-4755-8451-e7ba634f47ef",
+      "tool": "claude_code",
+      "type": "agentic_coding",
+      "created_at": "2025-10-21T07:57:21.219918+00:00",
+      "working_dir": "/Users/chris/big-3-super-agent/apps/content-gen",
+      "operator_files": [
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/GitHubManager/push-project-create-github-repository.md",
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/GitHubManager/push-project-files-github-repository.md",
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/GitHubManager/push-project-files-github-ohmnow.md"
+      ]
+    }
+  }
+}

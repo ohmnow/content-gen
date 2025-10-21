@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "PreToolUse": ["python .claude/hooks/send_event.py PreToolUse"],
+    "PostToolUse": ["python .claude/hooks/send_event.py PostToolUse"],
+    "Notification": ["python .claude/hooks/send_event.py Notification"],
+    "SessionStop": ["python .claude/hooks/send_event.py SessionStop"]
+  }
+}
+
+

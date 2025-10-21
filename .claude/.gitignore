@@ -1,0 +1,10 @@
+# Ignore Claude Code session data
+*.session
+*.log
+
+# Keep configuration and hooks
+!settings.json
+!hooks/
+!README.md
+
+
