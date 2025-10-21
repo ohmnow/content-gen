@@ -31,7 +31,8 @@
       "operator_files": [
         "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/GitHubManager/push-project-create-github-repository.md",
         "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/GitHubManager/push-project-files-github-repository.md",
-        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/GitHubManager/push-project-files-github-ohmnow.md"
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/GitHubManager/push-project-files-github-ohmnow.md",
+        "/Users/chris/big-3-super-agent/apps/content-gen/agents/claude_code/GitHubManager/push-project-files-create-github-repository.md"
       ]
     }
   }
